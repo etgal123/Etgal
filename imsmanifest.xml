@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="oyhukGFNgIMeg" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="Guv06ePn1DskG" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>2004 4th Edition</schemaversion>
@@ -216,7 +216,7 @@
 <file href="res/data/quiz2/fonts/fnt2.woff"/>
 <file href="res/data/quiz2/fonts/fnt3.woff"/>
 <file href="res/data/quiz2/fonts/fnt4.woff"/>
-<file href="res/data/quiz2/images/quiz_bg_0.png"/>
+<file href="res/data/quiz2/images/quiz_bg_1.png"/>
 <file href="res/data/thmb59.png"/>
 <file href="res/data/slide59.js"/>
 <file href="res/data/slide59.css"/>
@@ -295,7 +295,7 @@
 <file href="res/data/quiz3/fonts/fnt1.woff"/>
 <file href="res/data/quiz3/fonts/fnt2.woff"/>
 <file href="res/data/quiz3/fonts/fnt3.woff"/>
-<file href="res/data/quiz3/images/quiz_bg_1.png"/>
+<file href="res/data/quiz3/images/quiz_bg_0.png"/>
 <file href="res/data/sound1.mp3"/>
 <file href="res/data/sound2.mp3"/>
 <file href="res/data/sound3.mp3"/>
@@ -396,19 +396,19 @@
 <file href="res/data/img12.png"/>
 <file href="res/data/img13.png"/>
 <file href="res/data/img14.png"/>
-<file href="res/data/img15.jpg"/>
-<file href="res/data/img16.png"/>
-<file href="res/data/img17.jpg"/>
-<file href="res/data/img18.png"/>
+<file href="res/data/img15.png"/>
+<file href="res/data/img16.jpg"/>
+<file href="res/data/img17.png"/>
+<file href="res/data/img18.jpg"/>
 <file href="res/data/img19.png"/>
 <file href="res/data/img2.png"/>
 <file href="res/data/img20.png"/>
-<file href="res/data/img21.jpg"/>
-<file href="res/data/img22.png"/>
+<file href="res/data/img21.png"/>
+<file href="res/data/img22.jpg"/>
 <file href="res/data/img23.png"/>
 <file href="res/data/img24.png"/>
-<file href="res/data/img25.jpg"/>
-<file href="res/data/img26.png"/>
+<file href="res/data/img25.png"/>
+<file href="res/data/img26.jpg"/>
 <file href="res/data/img27.png"/>
 <file href="res/data/img28.png"/>
 <file href="res/data/img29.png"/>
@@ -416,28 +416,28 @@
 <file href="res/data/img30.png"/>
 <file href="res/data/img31.png"/>
 <file href="res/data/img32.png"/>
-<file href="res/data/img33.jpg"/>
+<file href="res/data/img33.png"/>
 <file href="res/data/img34.jpg"/>
 <file href="res/data/img35.jpg"/>
-<file href="res/data/img36.png"/>
+<file href="res/data/img36.jpg"/>
 <file href="res/data/img37.png"/>
-<file href="res/data/img38.jpg"/>
-<file href="res/data/img39.png"/>
+<file href="res/data/img38.png"/>
+<file href="res/data/img39.jpg"/>
 <file href="res/data/img4.jpg"/>
-<file href="res/data/img40.jpg"/>
-<file href="res/data/img41.png"/>
+<file href="res/data/img40.png"/>
+<file href="res/data/img41.jpg"/>
 <file href="res/data/img42.png"/>
 <file href="res/data/img43.png"/>
 <file href="res/data/img44.png"/>
-<file href="res/data/img45.jpg"/>
-<file href="res/data/img46.png"/>
-<file href="res/data/img47.jpg"/>
+<file href="res/data/img45.png"/>
+<file href="res/data/img46.jpg"/>
+<file href="res/data/img47.png"/>
 <file href="res/data/img48.jpg"/>
-<file href="res/data/img49.png"/>
+<file href="res/data/img49.jpg"/>
 <file href="res/data/img5.png"/>
 <file href="res/data/img50.png"/>
-<file href="res/data/img51.jpg"/>
-<file href="res/data/img52.png"/>
+<file href="res/data/img51.png"/>
+<file href="res/data/img52.jpg"/>
 <file href="res/data/img53.jpg"/>
 <file href="res/data/img54.png"/>
 <file href="res/data/img55.png"/>
